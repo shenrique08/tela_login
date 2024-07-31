@@ -1,48 +1,34 @@
-Login Form Project
 
-This is a mini-project to practice HTML5 and CSS3 skills. The project features a simple and responsive login form that uses modern CSS techniques like Flexbox for layout and styling. The form includes input fields for username and password, with basic validation for required fields.
-Features
+Tela de Login
 
-    Responsive Design: The form layout adjusts to different screen sizes, ensuring a consistent user experience across devices.
-    Modern CSS Techniques: Utilizes Flexbox for centering elements and creating a flexible layout.
-    Accessible and User-Friendly: Includes basic form validation and accessible labels for form elements.
-    Stylish Design: The design incorporates a background image, semi-transparent container, and custom styles for inputs and buttons.
+Este é um mini-projeto de uma tela de login criado para praticar habilidades em HTML5 e CSS3. A página apresenta um formulário simples e estilizado para entrada de nome de usuário e senha, com validações básicas de campo.
 
-Screenshots
+A página pode ser acessada pelo link: https://shenrique08.github.io/tela_login.github.io/
+Estrutura do Projeto
 
-Technologies Used
+O projeto é composto por dois arquivos principais:
+
+    index.html: Contém a estrutura HTML da página.
+    style.css: Contém as regras de estilo CSS para a página.
+
+Funcionalidades
+
+    Formulário de Login:
+        Inclui campos para nome de usuário e senha, ambos com validação para campos obrigatórios.
+        Campo de nome de usuário configurado para receber e-mails.
+        Placeholder nos campos para guiar o usuário.
+
+    Estilização Responsiva:
+        A página é responsiva, ajustando-se a diferentes tamanhos de tela, desde desktops até dispositivos móveis.
+        Uso de Flexbox para centralizar o contêiner de login e garantir uma apresentação consistente.
+
+    Design Atraente:
+        Fundo com imagem estilizada, com o contêiner de login em destaque graças a um fundo semi-transparente.
+        Borda arredondada e sombra para o contêiner, proporcionando um visual moderno e limpo.
+
+Tecnologias Utilizadas
 
     HTML5
     CSS3
 
-Setup and Usage
 
-To view the project locally, follow these steps:
-
-    Clone the repository:
-
-    bash
-
-git clone https://github.com/yourusername/repositoryname.git
-
-Navigate to the project directory:
-
-bash
-
-    cd repositoryname
-
-    Open the index.html file in your preferred web browser.
-
-File Structure
-
-    index.html: Contains the structure and content of the login form.
-    styles/style.css: Contains the CSS styles for the form and page layout.
-
-License
-
-This project is open source and available under the MIT License.
-Acknowledgments
-
-    Background image by Veeterzy from Pexels.
-
-Feel free to fork this repository, suggest improvements, or contribute to its development.
